@@ -1,0 +1,10 @@
+{
+    "name": "felds/aws-direct-upload",
+    "authors": [
+        {
+            "name": "Felds Liscia",
+            "email": "dev@felds.com.br"
+        }
+    ],
+    "require": {}
+}
